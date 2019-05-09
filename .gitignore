@@ -1,0 +1,7 @@
+fishd.*
+**/*.fish
+**/*.awk
+!completions/fisher.fish
+!functions/fisher.fish
+!conf.d/0_env.fish
+!config.fish
